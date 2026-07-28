@@ -1,4 +1,6 @@
-"""MINI PPROJECT PYTHON DASAR"""
+"""
+MINI PPROJECT PYTHON DASAR
+"""
 
 print ("=" * 30)
 print ("     BIODATA MAHASISWA")
