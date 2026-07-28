@@ -1,5 +1,7 @@
-#Materi 2 : Variabel
-#Variabel adalah tempat untuk menyimpan data
+""" 
+Materi 2 : Variabel
+Variabel adalah tempat untuk menyimpan data
+"""
 
 nama = "Badranaya"
 umur = 20
