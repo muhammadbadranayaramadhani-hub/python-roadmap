@@ -2,7 +2,7 @@
 Materi : Match Case
 """
 
-hari = input("Masukkan nama hari: ")
+hari = input("Masukkan nama hari: ").lower()
 
 match hari:
     case "senin":
@@ -11,3 +11,5 @@ match hari:
         print("Hari libur")
     case "minggu":
         print("Hari libur")
+    case _:
+        print("Hari kerja")
