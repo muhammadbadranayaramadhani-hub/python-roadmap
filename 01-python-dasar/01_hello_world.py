@@ -1,7 +1,7 @@
 """
 =======================
 Materi 01 : HELLO WORLD
-Fungsi dari print() digunakan untuk menampilkan teks atau nilai ke layar 
+Fungsi dari print() digunakan untuk menampilkan teks atau nilai ke layar
 =========================================================================
 """
 
