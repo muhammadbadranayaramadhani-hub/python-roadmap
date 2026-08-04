@@ -1,4 +1,9 @@
-hobi = []
+"""
+===========================
+Mini Project Hobi Siswa
+===========================
+"""
+hobi = set()
 
 while True:
 
