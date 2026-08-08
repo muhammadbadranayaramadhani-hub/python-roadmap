@@ -4,7 +4,7 @@ Materi : Indexing dan Slicing
 ==============================
 """
 
-teks = "ULAR"
+teks = "SNAKE"
 
 print("Huruf Pertama:", teks[0])
 print("Huruf Terkahir: ", teks[-1])
