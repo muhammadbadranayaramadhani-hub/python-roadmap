@@ -12,7 +12,7 @@ while True:
     try:
 
         angka1 = float(input("Angka Pertama: "))
-        operator = input("Pilih Operator (+ - * /)")
+        operator = input("Pilih Operator (+ - * /): ")
         angka2 = float(input("Angka Kedua: "))
 
         if operator == "+":
